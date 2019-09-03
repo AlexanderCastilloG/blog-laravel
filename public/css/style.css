@@ -1,0 +1,28 @@
+#label-file{
+    display: block;
+    width: 100%;
+    padding: 10px 12px;
+    border: 1px solid #e4e7ea;
+    border-radius: 3px;
+    font-size: 1.2rem;
+    text-align: left;
+}
+
+#label-file:hover{
+    cursor: pointer;
+}
+
+#featured{
+    display: none;
+}
+
+.upload-icon{
+    margin-right: 20px;
+    font-size: 17px; /*para hacer más grande el icono */
+    color: #28b485; /*darle color al icono */
+}
+
+.fondo{
+    background-image: url("../app/img/dark.png");
+}
+
